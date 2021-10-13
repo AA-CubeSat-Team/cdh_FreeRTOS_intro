@@ -1,0 +1,306 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line warning D9002: ignoring unknown option '/wc4574'
+  Run-time-stats-utils.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  main_full.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  main_blinky.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  tasks.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4231,5): warning C4061: enumerator 'eInvalid' in switch of enum 'eTaskState' is not explicitly handled by a case label
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\include\task.h(71): message : see declaration of 'eTaskState'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  queue.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  port.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  list.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(168,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(169,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(170,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'TaskFunction_t'
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(199,10): warning C4777: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'long'
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(199,10): message : consider using '%ld' in the format string
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  timerdemo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  TaskNotify.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  StreamBufferInterrupt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  StreamBufferDemo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  MessageBufferDemo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  StaticAllocation.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  semtest.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  recmutex.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  QueueSetPolling.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  QueueSet.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  QueueOverwrite.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  QPeek.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  Generating Code...
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\QueueSet.c(620): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\QueueSet.c(614): message : index 'x' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\QueueSet.c(620): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(336): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(313): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(336): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(272): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(246): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(272): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(205): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(191): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferDemo.c(205): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(401): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(397): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(401): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(374): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(370): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(374): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(352): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(329): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(352): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(296): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(278): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(296): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(235): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(222): message : index 'xItem' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\StreamBufferDemo.c(235): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\TaskNotify.c(370): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\TaskNotify.c(365): message : index 'ulLoop' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\TaskNotify.c(370): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(250): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(244): message : index 'xTimer' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(250): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(337): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(335): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(337): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(425): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(410): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(425): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(671): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(656): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\timerdemo.c(671): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\main.c(174): warning C4702: unreachable code
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2355): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2351): message : index 'xTicksToWait' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2355): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2432): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2428): message : index 'xTicksToWait' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2432): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2652): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2648): message : index 'ux' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\queue.c(2661): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(1307): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(1293): message : index 'xTicksToDelay' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(1307): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4328): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4318): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4340): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4430): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4427): message : index 'xTicksToWait' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4430): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4503): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4500): message : index 'xTicksToWait' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(4503): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(3442): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(3440): message : index 'uxPriority' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\tasks.c(3442): message : feeds call on this line
+  Compiling...
+  PollQ.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  MessageBufferAMP.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  IntSemTest.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  integer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  GenQTest.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  flop.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  EventGroupsDemo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  dynamic.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  death.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  countsem.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  blocktim.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  BlockQ.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  AbortDelay.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  timers.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  stream_buffer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  heap_5.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  event_groups.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  croutine.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  trcSnapshotRecorder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  trcKernelPort.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(254,17): warning C5031: #pragma warning(pop): likely mismatch, popping warning state pushed in different file
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h(161,17): message : #pragma warning(push)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\windows.h(161,17): warning C5032: detected #pragma warning(push) with no corresponding #pragma warning(pop)
+  Generating Code...
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2326): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2323): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2326): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(1863): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(1861): message : index 'param' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(1863): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2588): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2586): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2588): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\croutine.c(314): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\croutine.c(312): message : index 'uxPriority' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\croutine.c(314): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\portable\MemMang\heap_5.c(212): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\portable\MemMang\heap_5.c(198): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\portable\MemMang\heap_5.c(212): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(621): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(619): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(621): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(619): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(616): message : index 'xReturn' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(619): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(834): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(827): message : index 'xBytesAvailable' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(834): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(571): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(569): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(571): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(829): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(827): message : index 'xBytesAvailable' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(829): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(569): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(564): message : index 'xReturn' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(569): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(778): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(770): message : index 'xBytesAvailable' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(778): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(772): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(770): message : index 'xBytesAvailable' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(772): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(753): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(745): message : index 'xBytesAvailable' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(753): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1043): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1039): message : index 'xCount' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1043): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1094): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1090): message : index 'xCount' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1094): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1086): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1073): message : index 'xCount' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\stream_buffer.c(1086): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\timers.c(557): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\timers.c(554): message : index 'xNextExpireTime' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Source\timers.c(557): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\blocktim.c(499): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\blocktim.c(493): message : index 'x' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\blocktim.c(499): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\EventGroupsDemo.c(883): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\EventGroupsDemo.c(865): message : index 'uxBit' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\EventGroupsDemo.c(883): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\integer.c(75): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\integer.c(73): message : index '' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\integer.c(75): message : feeds call on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferAMP.c(150): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferAMP.c(142): message : index 'x' range checked by comparison on this line
+D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\Common\Minimal\MessageBufferAMP.c(150): message : feeds call on this line
+  WIN32.vcxproj -> D:\Coursera\FreeRtos\A1\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe

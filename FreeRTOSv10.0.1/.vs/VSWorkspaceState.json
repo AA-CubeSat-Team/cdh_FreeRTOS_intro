@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FreeRTOS",
+    "\\FreeRTOS-Plus",
+    "\\FreeRTOS-Plus\\Demo",
+    "\\FreeRTOS-Plus\\Demo\\FreeRTOS_Plus_CLI_with_Trace_Windows_Simulator",
+    "\\FreeRTOS\\Demo",
+    "\\FreeRTOS\\Demo\\Common\\Minimal",
+    "\\FreeRTOS\\Demo\\WIN32-MSVC"
+  ],
+  "SelectedNode": "\\FreeRTOS-Plus\\Demo\\FreeRTOS_Plus_CLI_with_Trace_Windows_Simulator\\FreeRTOS_Plus_CLI_with_Trace.sln",
+  "PreviewInSolutionExplorer": false
+}
