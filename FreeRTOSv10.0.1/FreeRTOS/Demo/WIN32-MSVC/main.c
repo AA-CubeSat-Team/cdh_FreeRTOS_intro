@@ -139,6 +139,7 @@ xTaskHandle t1_handle = NULL;
 xTaskHandle t2_handle = NULL;
 xTaskHandle t3_handle = NULL;
 
+// Forward declaration for our tasks
 static void t1();
 static void t2();
 static void t3();
@@ -154,47 +155,35 @@ int main(void)
 	See http://www.FreeRTOS.org/trace for more information. */
 	vTraceEnable(TRC_START);
 
-
-
 	// TODO 2: Create tasks right here
 	// https://www.freertos.org/a00125.html
-	xTaskCreate(t1, (signed char*)"task1", 100, NULL, 3, &t1_handle);
-	xTaskCreate(t2, (signed char*)"task2", 100, NULL, 4, &t2_handle);
-	xTaskCreate(t3, (signed char*)"task3", 100, NULL, 5, &t3_handle);
 
-	// TODO 5: use this method to start all tasks instead of while (1) loop
+	// TODO 5: use this method to start all tasks
 	vTaskStartScheduler();
+	
+	// since the scheduler is started, the program will never reach this point.
 	for (;;);
 	return 0;
 }
 
 
 // TODO 4: define task internal
-static void t1()
+static void t1() 
 {
-	while (1) {
-		printf("t1 running @%d\n", xTaskGetTickCount());
-		vTaskDelay(100);
-	}
+// delay task for 100ms;
 }
 
 
-static void t2()
+static void t2() 
 {
-	while (1) {
-		printf("t2 running @%d\n", xTaskGetTickCount());
-		vTaskDelay(500);
-	}
+// delay task loop for 500ms;
 }
 
 
 static void t3() 
 {
-	while (1) 
-	{
-		printf("t3 running @%d\n", xTaskGetTickCount());
-		vTaskDelay(1000);
-	}
+// delay task loop for 1000ms;
+	
 }
 
 
