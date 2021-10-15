@@ -10,12 +10,14 @@ or via email jy98@uw.edu
 
 ## Getting started
 Things you need
-- [Visual Studio 2019](https://visualstudio.microsoft.com/) or newer (community version should be free)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/) (community version should be free)
 - a Window system
 
 ## Step  0
-- the directory we will be using is `FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC`. We will be modifying the `main.c` file.
-- use this [FreeRTOS documentation](https://www.freertos.org/a00106.html) for more information on the specific API.
+- Download Visual Studio 2019
+-  ___When installing, choose the Desktop Development with C++ package___ , otherwise the project won't open
+- The directory we will be using is `FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC`. We will be modifying the `main.c` file.
+- Use this [FreeRTOS documentation](https://www.freertos.org/a00106.html) for more information on the specific API.
 - The most common API are:
 
 | Task Creation| TaskControl|
